@@ -1,0 +1,1 @@
+{"required":true,"package":"com.dsdg.pelicanandbike.pelican.mixin","compatibilityLevel":"JAVA_17","mixins":["PelicanBicycleMixin"],"injectors":{"defaultRequire":1}}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "pelican_and_bike",
+  "version": "${version}",
+  "name": "Pelican and Bike",
+  "description": "American white pelicans, rideable mountain bikes, and lakeside flock behaviour.",
+  "authors": [
+    "OBdangshang07"
+  ],
+  "license": "CC0-1.0",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.dsdg.pelicanandbike.bicycle.BicycleModule",
+      "com.dsdg.pelicanandbike.pelican.PelicanModule"
+    ],
+    "client": [
+      "com.dsdg.pelicanandbike.bicycle.client.BicycleClient",
+      "com.dsdg.pelicanandbike.pelican.client.PelicanClient"
+    ]
+  },
+  "mixins": [
+    "pelican_and_bike.bicycle.mixins.json",
+    "pelican_and_bike.pelican.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "minecraft": "1.20.1",
+    "java": ">=17",
+    "fabric-api": "*",
+    "geckolib": ">=4.2.4 <5"
+  }
+}

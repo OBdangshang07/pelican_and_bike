@@ -1,0 +1,16 @@
+{
+  "entity.pelican_and_bike.pelican": "American White Pelican",
+  "item.pelican_and_bike.pelican_spawn_egg": "American White Pelican Spawn Egg",
+  "entity.pelican_and_bike.bicycle": "29er Trail Bicycle",
+  "key.pelican_and_bike.bicycle.camera": "Cycle bicycle camera lean",
+  "item.pelican_and_bike.bicycle": "29er Trail Bicycle",
+  "category.pelican_and_bike.bicycle": "Bicycle",
+  "key.pelican_and_bike.bicycle.front": "Front brake",
+  "key.pelican_and_bike.bicycle.rear": "Rear brake",
+  "key.pelican_and_bike.bicycle.up": "Higher gear",
+  "key.pelican_and_bike.bicycle.down": "Lower gear",
+  "key.pelican_and_bike.bicycle.stand": "Stand on pedals",
+  "key.pelican_and_bike.bicycle.back": "Shift weight back",
+  "key.pelican_and_bike.bicycle.forward": "Shift weight forward",
+  "hint.pelican_and_bike.bicycle": "Pedal forward, coast on release, brake with Move Back. See Controls for gears and independent brakes."
+}

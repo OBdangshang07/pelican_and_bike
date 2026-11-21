@@ -1,0 +1,16 @@
+{
+  "entity.pelican_and_bike.pelican": "美洲鹈鹕",
+  "item.pelican_and_bike.pelican_spawn_egg": "美洲鹈鹕刷怪蛋",
+  "entity.pelican_and_bike.bicycle": "29 寸硬尾山地车",
+  "key.pelican_and_bike.bicycle.camera": "切换自行车视角侧倾幅度",
+  "item.pelican_and_bike.bicycle": "29 寸硬尾山地车",
+  "category.pelican_and_bike.bicycle": "自行车",
+  "key.pelican_and_bike.bicycle.front": "前刹车",
+  "key.pelican_and_bike.bicycle.rear": "后刹车",
+  "key.pelican_and_bike.bicycle.up": "升挡",
+  "key.pelican_and_bike.bicycle.down": "降挡",
+  "key.pelican_and_bike.bicycle.stand": "站立踩踏",
+  "key.pelican_and_bike.bicycle.back": "重心后移",
+  "key.pelican_and_bike.bicycle.forward": "重心前移",
+  "hint.pelican_and_bike.bicycle": "前进键踩踏，松开滑行，后退键双刹。独立刹车与换挡可在按键设置中调整。"
+}
